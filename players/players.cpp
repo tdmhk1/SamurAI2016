@@ -176,12 +176,12 @@ void GameInfo::occupy(int direction) {
 	static const int ox[3][7] = {
 		{0, 0, 0, 0},
 		{0, 0, 1, 1, 2},
-		{-1,-1,-1,0, 1, 1, 1}
+		{-1, -1, -1, 0, 1, 1, 1}
 	};
 	static const int oy[3][7] = {
 		{1, 2, 3, 4},
 		{1, 2, 0, 1, 0},
-		{-1,-1,1, 1, 1,-1, 0}
+		{-1, -1, 1, 1, 1, -1, 0}
 	};
 	SamuraiInfo& myself = samuraiInfo[weapon];
 	for (int k = 0; k != size[weapon]; k++) {
@@ -236,14 +236,14 @@ void GameInfo::tryAction
 	case 1: case 2: case 3: case 4: { // occupation
 		static const int size[3] = {4, 5, 7};
 		static const int ox[3][7] = {
-			{0, 0, 0, 0, 0, 0, 0},
-			{0, 0, 1, 1, 2, 0, 0},
-			{-1,-1,-1,0, 1, 1, 1}
+			{0, 0, 0, 0},
+			{0, 0, 1, 1, 2},
+			{-1, -1, -1, 0, 1, 1, 1}
 		};
 		static const int oy[3][7] = {
 			{1, 2, 3, 4},
 			{1, 2, 0, 1, 0},
-			{-1,0,1,1,-1,0}
+			{-1, 0, 1, 1, -1, 0}
 		};
 		for (int k = 0; k != size[weapon]; k++) {
 			int x, y;
@@ -287,8 +287,8 @@ void GameInfo::tryAction
 		break;
 	}
 	case 5: case 6: case 7: case 8: {
-		static const int dx[] = { 0, 1, 0, -1 };
-		static const int dy[] = { 1, 0, -1, 0 };
+		static const int dx[] = {0, 1, 0, -1};
+		static const int dy[] = {1, 0, -1, 0};
 		undo.recSamurai(&me);
 		me.curX += dx[action-5];
 		me.curY += dy[action-5];
