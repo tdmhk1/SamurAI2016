@@ -174,8 +174,8 @@ void rotate(int direction, int x0, int y0, int& x, int& y) {
 void GameInfo::occupy(int direction) {
 	static const int size[3] = {4, 5, 7};
 	static const int ox[3][7] = {
-		{0, 0, 0, 0, 0, 0, 0},
-		{0, 0, 1, 1, 2, 0, 0},
+		{0, 0, 0, 0},
+		{0, 0, 1, 1, 2},
 		{-1,-1,-1,0, 1, 1, 1}
 	};
 	static const int oy[3][7] = {
