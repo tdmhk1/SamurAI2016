@@ -1,0 +1,4620 @@
+### SamurAI 3x3 Game Log ###
+# <game name> <#turns> <width> <height>
+"Test Match" 510 15 15 30
+# Army sizes
+3 3
+# Samurai Info
+# Army 0 Samurai 0
+"Masamune" 2 40
+4 0 1 0 2 0 3 0 4
+5 7 0 5
+# Army 0 Samurai 1
+"Kenshin" 5 24
+5 0 1 0 2 1 0 1 1 2 0
+5 7 0 14
+# Army 0 Samurai 2
+"Shingen" 3 31
+7 -1 -1 -1 0 -1 1 0 1 1 -1 1 0 1 1
+5 7 9 14
+# Army 1 Samurai 0
+"Ujiyasu" 1 80
+4 0 1 0 2 0 3 0 4
+5 7 14 9
+# Army 1 Samurai 1
+"Nagamasa" 0 93
+5 0 1 0 2 1 0 1 1 2 0
+5 7 14 0
+# Army 1 Samurai 2
+"Yoshikage" 4 28
+7 -1 -1 -1 0 -1 1 0 1 1 -1 1 0 1 1
+5 7 5 0
+# Turn 0/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+1 0
+# Comments
+""
+# Turn 1/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+1 0
+# Comments
+""
+# Turn 2/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+4 0
+# Comments
+""
+# Turn 3/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+2 0
+# Comments
+""
+# Turn 4/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+7 3 0
+# Comments
+""
+# Turn 5/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 1 0
+# Comments
+""
+# Turn 6/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+3 5 9 0
+# Comments
+""
+# Turn 7/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+2 5 9 0
+# Comments
+""
+# Turn 8/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+6 2 9 0
+# Comments
+""
+# Turn 9/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+5 4 9 0
+# Comments
+""
+# Turn 10/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 2 9 0
+# Comments
+""
+# Turn 11/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+6 3 9 0
+# Comments
+""
+# Turn 12/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+10 2 9 0
+# Comments
+""
+# Turn 13/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+10 4 9 0
+# Comments
+""
+# Turn 14/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+5 10 4 0
+# Comments
+""
+# Turn 15/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+6 10 2 0
+# Comments
+""
+# Turn 16/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+6 10 1 0
+# Comments
+""
+# Turn 17/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 10 2 0
+# Comments
+""
+# Turn 18/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+5 10 4 0
+# Comments
+""
+# Turn 19/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+5 10 2 0
+# Comments
+""
+# Turn 20/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+6 2 9 0
+# Comments
+""
+# Turn 21/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+8 4 9 0
+# Comments
+""
+# Turn 22/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 2 9 0
+# Comments
+""
+# Turn 23/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+6 1 9 0
+# Comments
+""
+# Turn 24/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+5 2 9 0
+# Comments
+""
+# Turn 25/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+5 4 9 0
+# Comments
+""
+# Turn 26/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+5 10 4 0
+# Comments
+""
+# Turn 27/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+6 10 2 0
+# Comments
+""
+# Turn 28/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+6 10 2 0
+# Comments
+""
+# Turn 29/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 10 2 0
+# Comments
+""
+# Turn 30/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 31/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+5 10 2 0
+# Comments
+""
+# Turn 32/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+6 2 9 0
+# Comments
+""
+# Turn 33/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+5 4 9 0
+# Comments
+""
+# Turn 34/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 2 9 0
+# Comments
+""
+# Turn 35/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+7 2 9 0
+# Comments
+""
+# Turn 36/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+5 2 0
+# Comments
+""
+# Turn 37/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 38/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+5 10 4 0
+# Comments
+""
+# Turn 39/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+7 10 2 0
+# Comments
+""
+# Turn 40/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+7 10 2 0
+# Comments
+""
+# Turn 41/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 10 2 0
+# Comments
+""
+# Turn 42/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 43/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+5 2 0
+# Comments
+""
+# Turn 44/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+7 2 9 0
+# Comments
+""
+# Turn 45/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+5 4 9 0
+# Comments
+""
+# Turn 46/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 2 9 0
+# Comments
+""
+# Turn 47/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+7 2 9 0
+# Comments
+""
+# Turn 48/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+5 3 9 0
+# Comments
+""
+# Turn 49/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 50/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+5 10 4 0
+# Comments
+""
+# Turn 51/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+7 10 2 0
+# Comments
+""
+# Turn 52/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+8 10 1 0
+# Comments
+""
+# Turn 53/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+6 10 1 0
+# Comments
+""
+# Turn 54/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 55/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+10 2 9 0
+# Comments
+""
+# Turn 56/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+7 2 9 0
+# Comments
+""
+# Turn 57/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+5 4 9 0
+# Comments
+""
+# Turn 58/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 4 0
+# Comments
+""
+# Turn 59/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+7 2 0
+# Comments
+""
+# Turn 60/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+5 10 2 0
+# Comments
+""
+# Turn 61/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 62/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 63/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 64/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+7 4 9 0
+# Comments
+""
+# Turn 65/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 2 9 0
+# Comments
+""
+# Turn 66/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 67/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+3 6 9 0
+# Comments
+""
+# Turn 68/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 69/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 70/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 10 2 0
+# Comments
+""
+# Turn 71/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+6 10 1 0
+# Comments
+""
+# Turn 72/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+7 10 2 0
+# Comments
+""
+# Turn 73/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 74/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 75/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 76/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+7 2 9 0
+# Comments
+""
+# Turn 77/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 3 9 0
+# Comments
+""
+# Turn 78/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 79/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+6 2 9 0
+# Comments
+""
+# Turn 80/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 81/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 82/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 83/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+7 10 2 0
+# Comments
+""
+# Turn 84/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+7 10 2 0
+# Comments
+""
+# Turn 85/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 86/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 87/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 88/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+7 2 9 0
+# Comments
+""
+# Turn 89/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 90/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 91/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+7 2 9 0
+# Comments
+""
+# Turn 92/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+7 2 9 0
+# Comments
+""
+# Turn 93/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+8 3 9 0
+# Comments
+""
+# Turn 94/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 95/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+7 10 2 0
+# Comments
+""
+# Turn 96/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+7 10 2 0
+# Comments
+""
+# Turn 97/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 98/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+5 10 4 0
+# Comments
+""
+# Turn 99/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+6 10 2 0
+# Comments
+""
+# Turn 100/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+8 1 9 0
+# Comments
+""
+# Turn 101/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 102/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+1 0
+# Comments
+""
+# Turn 103/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+7 2 9 0
+# Comments
+""
+# Turn 104/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+6 2 9 0
+# Comments
+""
+# Turn 105/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+5 1 9 0
+# Comments
+""
+# Turn 106/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 107/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+7 10 2 0
+# Comments
+""
+# Turn 108/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+7 10 2 0
+# Comments
+""
+# Turn 109/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+3 5 9 0
+# Comments
+""
+# Turn 110/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 111/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+6 10 2 0
+# Comments
+""
+# Turn 112/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+6 1 9 0
+# Comments
+""
+# Turn 113/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+8 3 9 0
+# Comments
+""
+# Turn 114/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+10 7 4 0
+# Comments
+""
+# Turn 115/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+7 2 9 0
+# Comments
+""
+# Turn 116/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+7 2 9 0
+# Comments
+""
+# Turn 117/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 118/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+8 10 3 0
+# Comments
+""
+# Turn 119/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+7 10 2 0
+# Comments
+""
+# Turn 120/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+7 10 3 0
+# Comments
+""
+# Turn 121/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+7 4 9 0
+# Comments
+""
+# Turn 122/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 123/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+6 10 2 0
+# Comments
+""
+# Turn 124/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+7 2 9 0
+# Comments
+""
+# Turn 125/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 1 9 0
+# Comments
+""
+# Turn 126/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+7 10 4 0
+# Comments
+""
+# Turn 127/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+6 2 9 0
+# Comments
+""
+# Turn 128/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+6 2 9 0
+# Comments
+""
+# Turn 129/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 130/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+8 10 1 0
+# Comments
+""
+# Turn 131/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+8 10 1 0
+# Comments
+""
+# Turn 132/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+10 3 9 0
+# Comments
+""
+# Turn 133/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+8 3 9 0
+# Comments
+""
+# Turn 134/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 135/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+6 10 2 0
+# Comments
+""
+# Turn 136/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+8 1 9 0
+# Comments
+""
+# Turn 137/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 1 9 0
+# Comments
+""
+# Turn 138/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+8 10 3 0
+# Comments
+""
+# Turn 139/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+6 10 3 0
+# Comments
+""
+# Turn 140/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+6 2 9 0
+# Comments
+""
+# Turn 141/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 142/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 10 2 0
+# Comments
+""
+# Turn 143/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+8 10 1 0
+# Comments
+""
+# Turn 144/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+6 3 9 0
+# Comments
+""
+# Turn 145/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+7 4 9 0
+# Comments
+""
+# Turn 146/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 147/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+6 10 2 0
+# Comments
+""
+# Turn 148/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+8 1 9 0
+# Comments
+""
+# Turn 149/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 2 9 0
+# Comments
+""
+# Turn 150/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+7 10 4 0
+# Comments
+""
+# Turn 151/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+6 10 3 0
+# Comments
+""
+# Turn 152/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+6 2 9 0
+# Comments
+""
+# Turn 153/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 154/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 10 2 0
+# Comments
+""
+# Turn 155/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+5 10 2 0
+# Comments
+""
+# Turn 156/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+5 2 9 0
+# Comments
+""
+# Turn 157/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+7 4 9 0
+# Comments
+""
+# Turn 158/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+4 0
+# Comments
+""
+# Turn 159/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+7 10 2 0
+# Comments
+""
+# Turn 160/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+5 2 9 0
+# Comments
+""
+# Turn 161/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 2 9 0
+# Comments
+""
+# Turn 162/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+7 10 4 0
+# Comments
+""
+# Turn 163/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+5 10 2 0
+# Comments
+""
+# Turn 164/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+7 2 9 0
+# Comments
+""
+# Turn 165/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+5 4 9 0
+# Comments
+""
+# Turn 166/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 10 2 0
+# Comments
+""
+# Turn 167/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 168/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+5 2 9 0
+# Comments
+""
+# Turn 169/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+7 4 0
+# Comments
+""
+# Turn 170/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+5 10 4 0
+# Comments
+""
+# Turn 171/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+7 10 3 0
+# Comments
+""
+# Turn 172/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 173/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 2 9 0
+# Comments
+""
+# Turn 174/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+7 4 9 0
+# Comments
+""
+# Turn 175/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+8 10 4 0
+# Comments
+""
+# Turn 176/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+6 2 9 0
+# Comments
+""
+# Turn 177/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+5 4 9 0
+# Comments
+""
+# Turn 178/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 179/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 180/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+5 4 9 0
+# Comments
+""
+# Turn 181/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+7 10 4 0
+# Comments
+""
+# Turn 182/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+5 10 4 0
+# Comments
+""
+# Turn 183/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+6 10 2 0
+# Comments
+""
+# Turn 184/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 185/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 186/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+8 4 9 0
+# Comments
+""
+# Turn 187/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+10 1 9 0
+# Comments
+""
+# Turn 188/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+7 2 9 0
+# Comments
+""
+# Turn 189/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+5 4 9 0
+# Comments
+""
+# Turn 190/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 191/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 192/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+5 10 2 0
+# Comments
+""
+# Turn 193/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+5 10 4 0
+# Comments
+""
+# Turn 194/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+5 10 4 0
+# Comments
+""
+# Turn 195/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+6 10 2 0
+# Comments
+""
+# Turn 196/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+8 1 9 0
+# Comments
+""
+# Turn 197/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 198/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+5 1 9 0
+# Comments
+""
+# Turn 199/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+5 2 9 0
+# Comments
+""
+# Turn 200/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+7 2 9 0
+# Comments
+""
+# Turn 201/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+4 7 9 0
+# Comments
+""
+# Turn 202/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 203/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+7 10 2 0
+# Comments
+""
+# Turn 204/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+10 4 9 0
+# Comments
+""
+# Turn 205/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+8 10 1 0
+# Comments
+""
+# Turn 206/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+8 10 3 0
+# Comments
+""
+# Turn 207/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+10 2 9 0
+# Comments
+""
+# Turn 208/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+7 2 9 0
+# Comments
+""
+# Turn 209/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 1 0
+# Comments
+""
+# Turn 210/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+5 4 9 0
+# Comments
+""
+# Turn 211/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+5 10 2 0
+# Comments
+""
+# Turn 212/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+7 10 3 0
+# Comments
+""
+# Turn 213/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+4 6 9 0
+# Comments
+""
+# Turn 214/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 2 9 0
+# Comments
+""
+# Turn 215/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+7 10 2 0
+# Comments
+""
+# Turn 216/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+4 5 9 0
+# Comments
+""
+# Turn 217/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+5 10 4 0
+# Comments
+""
+# Turn 218/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+10 1 9 0
+# Comments
+""
+# Turn 219/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 220/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+6 1 9 0
+# Comments
+""
+# Turn 221/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 10 2 0
+# Comments
+""
+# Turn 222/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+5 1 9 0
+# Comments
+""
+# Turn 223/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+10 2 9 0
+# Comments
+""
+# Turn 224/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 225/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+7 10 3 0
+# Comments
+""
+# Turn 226/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 2 9 0
+# Comments
+""
+# Turn 227/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+7 10 4 0
+# Comments
+""
+# Turn 228/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+10 4 9 0
+# Comments
+""
+# Turn 229/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+5 10 4 0
+# Comments
+""
+# Turn 230/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+8 3 9 0
+# Comments
+""
+# Turn 231/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 232/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+7 4 9 0
+# Comments
+""
+# Turn 233/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 10 2 0
+# Comments
+""
+# Turn 234/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+5 1 9 0
+# Comments
+""
+# Turn 235/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+5 10 4 0
+# Comments
+""
+# Turn 236/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 237/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+8 10 3 0
+# Comments
+""
+# Turn 238/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 2 9 0
+# Comments
+""
+# Turn 239/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+10 6 2 0
+# Comments
+""
+# Turn 240/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+8 2 9 0
+# Comments
+""
+# Turn 241/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+10 5 4 0
+# Comments
+""
+# Turn 242/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+5 4 9 0
+# Comments
+""
+# Turn 243/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+6 2 9 0
+# Comments
+""
+# Turn 244/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+8 2 9 0
+# Comments
+""
+# Turn 245/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 10 2 0
+# Comments
+""
+# Turn 246/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 247/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+7 10 4 0
+# Comments
+""
+# Turn 248/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+6 10 2 0
+# Comments
+""
+# Turn 249/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+5 10 4 0
+# Comments
+""
+# Turn 250/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 2 9 0
+# Comments
+""
+# Turn 251/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+7 10 4 0
+# Comments
+""
+# Turn 252/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+7 3 9 0
+# Comments
+""
+# Turn 253/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 254/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+5 4 9 0
+# Comments
+""
+# Turn 255/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+6 2 9 0
+# Comments
+""
+# Turn 256/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+7 1 9 0
+# Comments
+""
+# Turn 257/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 10 4 0
+# Comments
+""
+# Turn 258/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 259/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+7 10 3 0
+# Comments
+""
+# Turn 260/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+6 10 2 0
+# Comments
+""
+# Turn 261/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+8 10 4 0
+# Comments
+""
+# Turn 262/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 4 9 0
+# Comments
+""
+# Turn 263/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 264/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 265/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 266/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+5 4 9 0
+# Comments
+""
+# Turn 267/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+7 2 9 0
+# Comments
+""
+# Turn 268/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 269/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 10 3 0
+# Comments
+""
+# Turn 270/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 271/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 272/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+10 7 2 0
+# Comments
+""
+# Turn 273/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+5 10 1 0
+# Comments
+""
+# Turn 274/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 275/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 276/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 277/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+8 1 9 0
+# Comments
+""
+# Turn 278/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+8 4 9 0
+# Comments
+""
+# Turn 279/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+7 2 9 0
+# Comments
+""
+# Turn 280/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 281/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 282/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+8 10 1 0
+# Comments
+""
+# Turn 283/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 284/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+6 10 2 0
+# Comments
+""
+# Turn 285/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+5 10 4 0
+# Comments
+""
+# Turn 286/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 287/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 288/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 289/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+8 1 9 0
+# Comments
+""
+# Turn 290/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+5 4 9 0
+# Comments
+""
+# Turn 291/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+6 2 9 0
+# Comments
+""
+# Turn 292/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+7 3 9 0
+# Comments
+""
+# Turn 293/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 294/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+8 10 1 0
+# Comments
+""
+# Turn 295/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+2 5 9 0
+# Comments
+""
+# Turn 296/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+6 10 2 0
+# Comments
+""
+# Turn 297/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+10 8 4 0
+# Comments
+""
+# Turn 298/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 299/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 300/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+10 2 9 0
+# Comments
+""
+# Turn 301/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+5 4 9 0
+# Comments
+""
+# Turn 302/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+8 4 9 0
+# Comments
+""
+# Turn 303/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 304/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 305/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+6 1 9 0
+# Comments
+""
+# Turn 306/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+7 10 4 0
+# Comments
+""
+# Turn 307/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+10 7 3 0
+# Comments
+""
+# Turn 308/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 309/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+5 10 4 0
+# Comments
+""
+# Turn 310/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 10 2 0
+# Comments
+""
+# Turn 311/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 312/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+6 3 9 0
+# Comments
+""
+# Turn 313/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+3 5 9 0
+# Comments
+""
+# Turn 314/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+8 4 9 0
+# Comments
+""
+# Turn 315/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 316/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 317/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+6 1 9 0
+# Comments
+""
+# Turn 318/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+5 10 4 0
+# Comments
+""
+# Turn 319/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+6 10 3 0
+# Comments
+""
+# Turn 320/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 321/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+8 10 4 0
+# Comments
+""
+# Turn 322/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 10 4 0
+# Comments
+""
+# Turn 323/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 324/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+6 3 9 0
+# Comments
+""
+# Turn 325/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+1 5 9 0
+# Comments
+""
+# Turn 326/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+8 3 9 0
+# Comments
+""
+# Turn 327/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+2 6 9 0
+# Comments
+""
+# Turn 328/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+7 3 0
+# Comments
+""
+# Turn 329/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 4 9 0
+# Comments
+""
+# Turn 330/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 331/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+6 10 3 0
+# Comments
+""
+# Turn 332/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+7 10 2 0
+# Comments
+""
+# Turn 333/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+5 10 4 0
+# Comments
+""
+# Turn 334/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 10 4 0
+# Comments
+""
+# Turn 335/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+7 4 9 0
+# Comments
+""
+# Turn 336/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+7 2 9 0
+# Comments
+""
+# Turn 337/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 338/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+8 4 9 0
+# Comments
+""
+# Turn 339/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+6 2 0
+# Comments
+""
+# Turn 340/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+6 10 1 0
+# Comments
+""
+# Turn 341/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 342/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 343/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+5 10 2 0
+# Comments
+""
+# Turn 344/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+5 2 9 0
+# Comments
+""
+# Turn 345/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 346/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 347/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+6 1 9 0
+# Comments
+""
+# Turn 348/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+5 2 9 0
+# Comments
+""
+# Turn 349/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 350/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 351/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+6 10 1 0
+# Comments
+""
+# Turn 352/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+6 10 1 0
+# Comments
+""
+# Turn 353/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 354/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 355/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+6 10 1 0
+# Comments
+""
+# Turn 356/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+6 2 9 0
+# Comments
+""
+# Turn 357/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 358/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 359/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+6 1 9 0
+# Comments
+""
+# Turn 360/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+6 1 9 0
+# Comments
+""
+# Turn 361/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+5 1 9 0
+# Comments
+""
+# Turn 362/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 363/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+6 10 2 0
+# Comments
+""
+# Turn 364/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+7 10 2 0
+# Comments
+""
+# Turn 365/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 366/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 367/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+6 10 1 0
+# Comments
+""
+# Turn 368/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+7 2 9 0
+# Comments
+""
+# Turn 369/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+8 3 9 0
+# Comments
+""
+# Turn 370/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 3 9 0
+# Comments
+""
+# Turn 371/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+7 2 9 0
+# Comments
+""
+# Turn 372/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+6 2 9 0
+# Comments
+""
+# Turn 373/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 374/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+8 10 4 0
+# Comments
+""
+# Turn 375/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+6 10 2 0
+# Comments
+""
+# Turn 376/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+7 10 4 0
+# Comments
+""
+# Turn 377/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+8 10 3 0
+# Comments
+""
+# Turn 378/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 379/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+5 10 2 0
+# Comments
+""
+# Turn 380/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+6 2 9 0
+# Comments
+""
+# Turn 381/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+8 4 9 0
+# Comments
+""
+# Turn 382/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+8 3 9 0
+# Comments
+""
+# Turn 383/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+8 1 9 0
+# Comments
+""
+# Turn 384/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+6 1 9 0
+# Comments
+""
+# Turn 385/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 386/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+8 10 4 0
+# Comments
+""
+# Turn 387/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+6 10 2 0
+# Comments
+""
+# Turn 388/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+8 10 1 0
+# Comments
+""
+# Turn 389/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 10 2 0
+# Comments
+""
+# Turn 390/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 391/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+7 10 3 0
+# Comments
+""
+# Turn 392/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+7 2 9 0
+# Comments
+""
+# Turn 393/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+5 4 9 0
+# Comments
+""
+# Turn 394/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 2 9 0
+# Comments
+""
+# Turn 395/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+7 2 9 0
+# Comments
+""
+# Turn 396/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+6 3 9 0
+# Comments
+""
+# Turn 397/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 398/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+10 5 4 0
+# Comments
+""
+# Turn 399/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+7 10 2 0
+# Comments
+""
+# Turn 400/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+6 10 1 0
+# Comments
+""
+# Turn 401/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 10 2 0
+# Comments
+""
+# Turn 402/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+7 4 0
+# Comments
+""
+# Turn 403/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+6 10 3 0
+# Comments
+""
+# Turn 404/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+7 3 9 0
+# Comments
+""
+# Turn 405/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+5 1 9 0
+# Comments
+""
+# Turn 406/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 2 9 0
+# Comments
+""
+# Turn 407/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 408/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+6 3 9 0
+# Comments
+""
+# Turn 409/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+7 4 9 0
+# Comments
+""
+# Turn 410/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+5 10 4 0
+# Comments
+""
+# Turn 411/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+6 10 2 0
+# Comments
+""
+# Turn 412/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 413/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+6 10 1 0
+# Comments
+""
+# Turn 414/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+10 1 9 0
+# Comments
+""
+# Turn 415/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+10 6 3 0
+# Comments
+""
+# Turn 416/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+6 2 9 0
+# Comments
+""
+# Turn 417/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+6 1 9 0
+# Comments
+""
+# Turn 418/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 4 9 0
+# Comments
+""
+# Turn 419/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 420/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+7 4 9 0
+# Comments
+""
+# Turn 421/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+8 10 1 0
+# Comments
+""
+# Turn 422/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+7 10 2 0
+# Comments
+""
+# Turn 423/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+6 10 2 0
+# Comments
+""
+# Turn 424/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 425/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 10 2 0
+# Comments
+""
+# Turn 426/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+5 4 9 0
+# Comments
+""
+# Turn 427/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+10 1 9 0
+# Comments
+""
+# Turn 428/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+7 2 9 0
+# Comments
+""
+# Turn 429/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+5 1 9 0
+# Comments
+""
+# Turn 430/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 2 9 0
+# Comments
+""
+# Turn 431/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 432/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+10 6 3 0
+# Comments
+""
+# Turn 433/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 434/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+5 10 1 0
+# Comments
+""
+# Turn 435/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+7 10 3 0
+# Comments
+""
+# Turn 436/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+7 1 9 0
+# Comments
+""
+# Turn 437/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 10 2 0
+# Comments
+""
+# Turn 438/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 439/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+7 1 9 0
+# Comments
+""
+# Turn 440/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+7 2 9 0
+# Comments
+""
+# Turn 441/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 442/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+6 1 9 0
+# Comments
+""
+# Turn 443/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+8 10 1 0
+# Comments
+""
+# Turn 444/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+10 4 9 0
+# Comments
+""
+# Turn 445/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 446/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 447/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+8 10 3 0
+# Comments
+""
+# Turn 448/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+7 2 9 0
+# Comments
+""
+# Turn 449/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 10 4 0
+# Comments
+""
+# Turn 450/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 451/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+7 10 4 0
+# Comments
+""
+# Turn 452/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+7 3 9 0
+# Comments
+""
+# Turn 453/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 454/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+5 2 9 0
+# Comments
+""
+# Turn 455/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+8 10 1 0
+# Comments
+""
+# Turn 456/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+7 4 9 0
+# Comments
+""
+# Turn 457/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+3 5 9 0
+# Comments
+""
+# Turn 458/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 459/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+6 10 2 0
+# Comments
+""
+# Turn 460/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+8 1 9 0
+# Comments
+""
+# Turn 461/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 462/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+10 4 9 0
+# Comments
+""
+# Turn 463/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+7 10 4 0
+# Comments
+""
+# Turn 464/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+6 2 9 0
+# Comments
+""
+# Turn 465/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 466/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 467/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+7 10 2 0
+# Comments
+""
+# Turn 468/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+5 1 9 0
+# Comments
+""
+# Turn 469/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+7 10 4 0
+# Comments
+""
+# Turn 470/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+5 4 0
+# Comments
+""
+# Turn 471/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+5 10 1 0
+# Comments
+""
+# Turn 472/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+7 2 9 0
+# Comments
+""
+# Turn 473/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 474/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+7 3 9 0
+# Comments
+""
+# Turn 475/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 476/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+5 1 9 0
+# Comments
+""
+# Turn 477/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+8 4 9 0
+# Comments
+""
+# Turn 478/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 479/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+7 10 2 0
+# Comments
+""
+# Turn 480/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 481/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 482/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+5 10 4 0
+# Comments
+""
+# Turn 483/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+5 10 4 0
+# Comments
+""
+# Turn 484/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+8 1 9 0
+# Comments
+""
+# Turn 485/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 486/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 487/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 488/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+5 1 9 0
+# Comments
+""
+# Turn 489/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+5 4 9 0
+# Comments
+""
+# Turn 490/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+1 5 9 0
+# Comments
+""
+# Turn 491/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+7 10 2 0
+# Comments
+""
+# Turn 492/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 493/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 494/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+5 10 4 0
+# Comments
+""
+# Turn 495/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+5 10 1 0
+# Comments
+""
+# Turn 496/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+7 2 9 0
+# Comments
+""
+# Turn 497/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 498/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 499/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 500/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+7 4 9 0
+# Comments
+""
+# Turn 501/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+5 4 9 0
+# Comments
+""
+# Turn 502/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 503/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+7 10 2 0
+# Comments
+""
+# Turn 504/510
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+7 2 9 0
+# Comments
+""
+# Turn 505/510
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 506/510
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+5 10 4 0
+# Comments
+""
+# Turn 507/510
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+7 10 2 0
+# Comments
+""
+# Turn 508/510
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+8 1 9 0
+# Comments
+""
+# Turn 509/510
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""

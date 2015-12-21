@@ -29,7 +29,7 @@ greedyPlayer: ${GREEDYOBJECTS}
 	${CPP} ${CPPFLAGS} -o $@ $^
 
 randomParameterPlayer: ${RANDOMPARAMETEROBJECTS}
-		${CPP} ${CPPFLAGS} -o $@ $^
+	${CPP} ${CPPFLAGS} -o $@ $^
 
 -include ${OBJECTS:.o=.d}
 
