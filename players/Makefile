@@ -8,7 +8,8 @@ TOOACTIVEOBJECTS= ${COMMONOBJECTS} tooActivePlayer.o
 NONCHECKINGOBJECTS= ${COMMONOBJECTS} nonCheckingPlayer.o
 PLANNINGOBJECTS= planning.o
 GREEDYOBJECTS= ${COMMONOBJECTS} ${PLANNINGOBJECTS} greedyPlayer.o
-TARGET= randomPlayer greedyPlayer timeoutPlayer tooActivePlayer nonCheckingPlayer
+RANDOMPARAMETEROBJECTS= ${COMMONOBJECTS} ${PLANNINGOBJECTS} randomParameterPlayer.o
+TARGET= randomPlayer greedyPlayer timeoutPlayer tooActivePlayer nonCheckingPlayer randomParameterPlayer
 
 all: ${TARGET}
 
@@ -26,6 +27,9 @@ nonCheckingPlayer: ${NONCHECKINGOBJECTS}
 
 greedyPlayer: ${GREEDYOBJECTS}
 	${CPP} ${CPPFLAGS} -o $@ $^
+
+randomParameterPlayer: ${RANDOMPARAMETEROBJECTS}
+		${CPP} ${CPPFLAGS} -o $@ $^
 
 -include ${OBJECTS:.o=.d}
 
