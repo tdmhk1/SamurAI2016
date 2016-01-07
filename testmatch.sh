@@ -6,5 +6,4 @@ manager/gameManager \
     -a players/nonCheckingPlayer -p "" -u "" -n "random4" -r 4 -s 70 \
     -a players/tooActivePlayer -p "" -u "" -n "random5" -r 5 -s 60 \
     -a players/abortingPlayer  -p "" -u "" -n "random6" -r 6 -s 20 \
-    -l gamelog \
-    -d dump
+    -l logfiles/logfile11 \

@@ -15,9 +15,12 @@ for l in reversed(lines[:len(lines)-1]):
         if l[0] == ' ':
             result.append(l)
 
-s = ''.join(result);
+field = ''.join(result);
 with open(output_path, 'w', newline='') as csvfile:
     writer = csv.writer(csvfile, delimiter=',')
     identifiers = ['0', '1', '2', '3', '4', '5', '.']
-    for i in identifiers:
-        writer.writerow([i, s.count(i)])
+    counts = [field.count(i) for i in identifiers]
+    winner = 1 if sum(counts[:3]) < sum(counts[3:6]) else 0
+    for i in range(6):
+        score = counts[i] + 300 if (i // 3) == winner else counts[i]
+        writer.writerow([i, score])
