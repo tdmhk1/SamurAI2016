@@ -6,4 +6,4 @@ manager/gameManager \
     -a players/greedyPlayer -p "" -u "" -n "greedy4" -r 4 -s 70 \
     -a players/greedyPlayer -p "" -u "" -n "greedy5" -r 5 -s 60 \
     -a players/greedyPlayer  -p "" -u "" -n "greedy6" -r 6 -s 20 \
-    -l logfiles/logfile11 \
+    -t

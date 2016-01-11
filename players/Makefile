@@ -4,15 +4,11 @@ CPP= c++
 COMMONOBJECTS= players.o
 PLANNINGOBJECTS= planning.o
 GREEDYOBJECTS= ${COMMONOBJECTS} ${PLANNINGOBJECTS} greedyPlayer.o
-RANDOMPARAMETEROBJECTS= ${COMMONOBJECTS} ${PLANNINGOBJECTS} randomParameterPlayer.o
 TARGET= greedyPlayer
 
 all: ${TARGET}
 
 greedyPlayer: ${GREEDYOBJECTS}
-	${CPP} ${CPPFLAGS} -o $@ $^
-
-randomParameterPlayer: ${RANDOMPARAMETEROBJECTS}
 	${CPP} ${CPPFLAGS} -o $@ $^
 
 -include ${OBJECTS:.o=.d}
