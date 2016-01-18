@@ -1,0 +1,1 @@
+parametrizedPlayer.o: parametrizedPlayer.cpp

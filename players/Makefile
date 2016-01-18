@@ -4,11 +4,15 @@ CPP= c++
 COMMONOBJECTS= players.o
 PLANNINGOBJECTS= planning.o
 GREEDYOBJECTS= ${COMMONOBJECTS} ${PLANNINGOBJECTS} greedyPlayer.o
-TARGET= greedyPlayer
+PARAMETRIZEDOBJECTS= ${COMMONOBJECTS} ${PLANNINGOBJECTS} parametrizedPlayer.o
+TARGET= greedyPlayer parametrizedPlayer
 
 all: ${TARGET}
 
 greedyPlayer: ${GREEDYOBJECTS}
+	${CPP} ${CPPFLAGS} -o $@ $^
+
+parametrizedPlayer: ${PARAMETRIZEDOBJECTS}
 	${CPP} ${CPPFLAGS} -o $@ $^
 
 -include ${OBJECTS:.o=.d}
